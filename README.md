@@ -1,2 +1,2 @@
 # MACD
-This repository includes my MACD model on a Jupyter Notebook. 
+This repository includes my MACD model written in Python on a Jupyter Notebook. 
