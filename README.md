@@ -1,2 +1,2 @@
 # MACD
-This repository includes my MACD model written in Python on a Jupyter Notebook. 
+The MACD model was written in Python on a Jupyter Notebook which uses ticker data from Yfinance. <br> The model uses a 5 day average decision basis <br> It produces slighty over 50% accuracy as opposed to slighty under 50% for 3 day average decision. Clearly, the model is not a fortune teller, no model can do that. The idea that the model floats around 50% accuracy suggests traders to flip a fair coin rather than go through the trouble of using MACD for trading.
